@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Dudu1</title>
+    </head>
+    <body>
+          <img src="onepiece.webp" style="display: block;" />
+
+          <video controls style="width: 50%; border-radius:10px;">
+            <source src="ONE PIECE - Live Action _ Trailer teaser oficial _ Netflix.mp4" type="video/mp4" >
+            <!--source src="ONE PIECE - Live Action _ Trailer teaser oficial _ Netflix.ogg" type="video/ogg"> -->
+          Seu navegador não suporta HTML.
+        </video>
+
+         <audio controls>
+             <source src="One Piece - Indrodução de _We Are!_ (Últimas palavras de Gol D. Roger) Legedado Pt Br.mp4" type="audio/mp4">
+             <!--Seu navegador não possui suporte para audio. -->
+         </audio>
+
+         <!--button onclick="document.getElementById('player').play()">Play</button>
+         <button onclick="document.getElementById('player').pause()">Pause</button>
+
+         <iframe src="./index.html">
+
+         </iframe> -->
+
+    </body>
+    </html>

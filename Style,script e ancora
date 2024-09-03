@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en"> 
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Dudu que fez</title>
+
+   <style>
+
+.header1{
+    background-color: green;
+    color: red;
+}
+.header2{
+    background-color: yellow;
+}
+
+#headerGrande{
+    height: 500px;
+
+}
+
+#headerpequeno{
+    height: 500px;
+}
+
+
+  div{
+      background-color: brown;
+      color:blue;
+
+  }
+</style>
+
+       <script>
+
+        alert("ola isso é um codigo JS")
+       </script>
+
+    <header id="headerGrande" class=header1">
+        <nav>
+            <ul>
+                <a href="https://google.com" target="_blank">
+                    <li>DU</li>
+                </a>    
+                <li>DU</li>
+                <li>EDU</li>
+                <li>DUDU</li>
+            </ul>
+        </nav>
+    </header>
+
+    <header id="headerpequeno" class="header2">
+        <nav>
+            <ul>
+                <a href="https://google.com" target="_blank">
+                    <li>DU</li>
+                </a>    
+                <li>DU</li>
+                <li>EDU</li>
+                <li>DUDU</li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <div>
+        1
+    </div>
+
+    <div>
+        2
+    </div>
+
+    <div>
+        3
+    </div>
+
+
+    </head>
+    <body>

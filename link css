@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en"> 
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Dudu que fez</title>
+
+        <link rel="stylesheet" href="./style.css" />
+       <!-- <style>
+            h1{
+
+                front-size: 40px;
+                color: red;
+            }
+            </style> -->
+
+    </head>
+    <body>
+        
+        <div class="minhadiv">
+            <div class="bloco">Usuario 1</div>
+            <div class="bloco">Usuario 2</div>
+            <div class="bloco">Usuario 3</div>
+            <div class="bloco">Usuario 4</div>
+            <div class="bloco">Usuario 5</div>
+            <div class="bloco">Usuario 6</div>
+            
+                <!-- <div class="caixa">1</div> 
+                <div class="caixa">2</div>
+                <div class="caixa">3</div>
+            -->
+        </div>
+<!--  
+        <div class="minhadiv">
+                dudis
+        </div>
+
+        <!-- <a class="input"> 
+        nossa tag
+    </a>-->
+
+        
+
+        <!-- <div class="minhadiv2">   
+                <div class="absolute">
+        </div> -->
+        <!-- <div class="minhadiv"> 
+
+        
+            <div class="filhodiv">
+             filho master
+            </div>
+            
+            <div class="filhodiv">
+                filho master
+               </div>
+           <!--  -->
+        </div>
+
+            
+        </body>
+        </html>
